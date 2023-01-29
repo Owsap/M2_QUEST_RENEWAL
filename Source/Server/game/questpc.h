@@ -1,0 +1,32 @@
+/// 1.
+// Search
+		typedef map<unsigned int, QuestState> QuestInfo;
+
+// Add above
+#if defined(__QUEST_RENEWAL__)
+		enum EQuestType
+		{
+			QUEST_TYPE_MAIN,
+			QUEST_TYPE_SUB,
+			QUEST_TYPE_LEVELUP,
+			QUEST_TYPE_EVENT,
+			QUEST_TYPE_COLLECTION,
+			QUEST_TYPE_SYSTEM,
+			QUEST_TYPE_SCROLL,
+			QUEST_TYPE_DAILY,
+			QUEST_TYPE_UNEXPOSED,
+			QUEST_TYPE_MAX
+		};
+
+		enum EQuestSkin
+		{
+			QUEST_SKIN_NOWINDOW,
+			QUEST_SKIN_NORMAL,
+			QUEST_SKIN_UNKOWN1,
+			QUEST_SKIN_UNKOWN2,
+			QUEST_SKIN_SCROLL,
+			QUEST_SKIN_CINEMATIC,
+			QUEST_SKIN_COUNT,
+			QUEST_SKIN_MAX
+		};
+#endif

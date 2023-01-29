@@ -1,0 +1,146 @@
+#######################################
+# Main Quests
+# 0
+0	main_quest_lv1
+0	main_quest_lv2
+0	main_quest_lv3
+0	main_quest_lv6
+0	main_quest_lv7
+0	main_quest_lv9
+0	main_quest_lv10
+0	main_quest_lv12
+0	main_quest_lv14
+0	main_quest_lv15
+0	main_quest_lv16
+0	main_quest_lv27
+0	main_quest_lv30
+0	main_quest_lv32
+0	main_quest_lv40
+0	main_quest_lv47
+0	main_quest_lv50
+0	main_quest_lv55
+0	main_quest_lv60
+0	main_quest_lv66
+0	main_quest_lv72
+0	main_quest_lv78
+0	main_quest_lv84
+0	main_quest_lv90
+0	main_quest_lv91
+0	main_quest_lv92
+0	main_quest_lv93
+0	main_quest_lv94
+0	main_quest_lv95
+0	main_quest_lv96
+0	main_quest_lv97
+0	main_quest_lv98
+0	main_quest_flame_lv99
+0	main_quest_flame_lv100
+0	main_quest_flame_lv101
+0	main_quest_flame_lv102
+0	main_quest_flame_lv103
+0	main_quest_flame_lv104
+0	main_quest_flame_lv105
+
+#######################################
+# Side Quests
+# 1
+1	new_quest_premium_lv4
+1	subquest_1
+1	subquest_2
+1	subquest_3
+1	subquest_4
+1	subquest_5
+1	subquest_6
+1	subquest_7
+1	subquest_8
+1	subquest_9
+1	subquest_10
+1	subquest_11
+1	subquest_12
+1	subquest_13
+1	subquest_15
+1	subquest_16
+1	subquest_17
+1	subquest_18
+1	subquest_19
+1	subquest_20
+1	subquest_21
+1	subquest_22
+1	subquest_23
+1	subquest_24
+1	subquest_25
+1	subquest_26
+1	subquest_27
+1	subquest_30
+1	subquest_31
+1	subquest_32
+1	subquest_33
+1	subquest_34
+1	subquest_36
+1	subquest_37
+1	subquest_38
+1	subquest_39
+1	subquest_40
+1	subquest_41
+1	subquest_42
+1	subquest_44
+1	subquest_45
+1	subquest_46
+1	subquest_47
+1	subquest_48
+1	subquest_49
+1	new_quest_lv7
+1	new_quest_lv17
+1	new_quest_lv22
+1	new_quest_lv26
+1	new_quest_lv28
+1	new_quest_lv29
+1	new_quest_lv42
+1	new_quest_lv43
+1	new_quest_lv52
+1	new_quest_lv54
+1	new_quest_lv75
+1	new_quest_lv80
+
+#######################################
+# Hunting Mission
+# 2
+
+#######################################
+# Event Mission
+# 3
+
+#######################################
+# Biologist Quests
+# 4
+4	make_herb_lv4
+4	make_herb_lv7
+4	make_herb_lv10
+4	make_herb_lv15
+4	make_herb_lv20
+4	make_herb_lv25
+4	collect_quest_lv30
+4	collect_quest_lv40
+4	collect_quest_lv50
+4	collect_quest_lv60
+4	collect_quest_lv70
+4	collect_quest_lv80
+4	collect_quest_lv85
+4	collect_quest_lv90
+4	collect_quest_lv92
+4	collect_quest_lv94
+
+#######################################
+# Game Mission
+# 5
+5	find_brother_article
+5	find_squareguard
+5	find_senior_soldier
+
+#######################################
+# Mission Book Quests
+# 6
+
+#######################################
+# Daily Quests
+# 7
